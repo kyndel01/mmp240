@@ -10,3 +10,6 @@ h1{font-family: sans-serif;
             p{font-family: serif;
                 font-size: 15px;
                 text-align: center;}
+                img{float: right;}
+                background{color: blue;}
+                
