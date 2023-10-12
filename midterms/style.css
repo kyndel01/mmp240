@@ -1,5 +1,4 @@
 #wrapper{
    max-width: 1200px;
-    margin-right: auto;
-    margin-left: auto;
+    margin: 0 auto; /* first value top and bottom second value left and right*/
 }
