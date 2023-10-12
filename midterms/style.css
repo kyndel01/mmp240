@@ -2,3 +2,7 @@
    max-width: 1200px;
     margin: 0 auto; /* first value top and bottom second value left and right*/
 }
+h1{
+    width: 60%;
+
+}
