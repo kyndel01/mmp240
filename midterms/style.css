@@ -18,10 +18,11 @@
         background-color:salmon;
         margin: 0 auto ;
    }
-   .first{
-        float: left;
-
-   }
-   .second{
-        float: right;
-   }
+   .col-left{
+     width: 10%;
+     float: left;
+    }
+    .col-right{
+     width: 50%;
+     float: right;}
+   
