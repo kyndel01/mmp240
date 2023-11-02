@@ -6,8 +6,17 @@
     
     
  }
- 
- 
+ .flex-container{
+  flex-direction: row;
+  flex-wrap: wrap;
+  
+
+ }
+  .box{
+    width:200px ;
+    flex: 1 0 0;
+
+  }
 
 
   
