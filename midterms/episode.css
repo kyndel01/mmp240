@@ -3,21 +3,12 @@
     margin:0 auto;
   }
 
-  .flex-item{
-    width:200px;
-    border:solid 1px gray;
-    padding:5px;
-    border-radius: 10px;
-    margin:0.5em;
-    flex: 1 0 0;
-
-    
-  }
-
-  .flex-container{
+ .flexbox{
+    background-color: antiquewhite;
     display: flex;
-  }
+    flex-direction: row;
 
+ }
   
 
   .img-responsive{
