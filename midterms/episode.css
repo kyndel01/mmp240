@@ -1,17 +1,16 @@
 
 
- .flexbox{
+ .flex-container{
     background-color: rgb(240, 190, 184);
     display: flex;
+    flex-direction: row;
     
     
  }
- .flex-container{
-  flex-direction: row;
-  flex-wrap: wrap;
+ 
   
 
- }
+
   .box{
     width:200px ;
     flex: 1 0 0;
