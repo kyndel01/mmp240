@@ -40,4 +40,8 @@
     a:hover{ color:antiquewhite
 
     }
-   
+    
+    nav li{
+        display: block;
+
+    }
