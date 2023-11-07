@@ -1,5 +1,6 @@
 .episode{
   display: flex;
+  flex-direction: row;
 }
 
   .episode-card{
