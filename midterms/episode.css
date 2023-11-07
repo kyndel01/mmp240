@@ -1,26 +1,7 @@
+.episode{
+  display: flex;
+}
 
-
- .flex-container{
-    background-color: rgb(240, 190, 184);
-    display: flex;
-    flex-direction: row;
-    
-    
- }
- 
-  
-
-
-  .box{
-    width:200px ;
-    flex: 1 0 0;
-
+  .episode-card{
+    width: 24%;
   }
-
-
-  
-  body{background-color: black;
-
-
-  }
-  
