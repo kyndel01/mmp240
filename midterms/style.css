@@ -8,7 +8,7 @@ header{
     ;
   
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: left right;
 }
 body {
     background-color: black;
