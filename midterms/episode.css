@@ -1,3 +1,12 @@
+#wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+header{
+  margin: 0 auto;
+}
+
 .episodes{
   display: flex;
   flex-direction: row;
@@ -15,3 +24,29 @@
   body{
     background-color: black;
   }
+
+  nav {
+    background-color: salmon;
+    padding: 5px;
+
+}
+
+nav li {
+    display: inline;
+    border-right:solid 1px white;
+    padding: 0 1em;
+}
+nav li:last-child{
+    border:none;
+}
+nav a{
+    text-decoration: none;
+}
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: antiquewhite;
+    text-decoration: underline;
+}
