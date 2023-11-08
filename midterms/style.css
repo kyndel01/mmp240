@@ -7,13 +7,6 @@
 
 }
 
-nav {
-    background-color: salmon;
-
-    padding: 10px;
-
-}
-
 body {
     background-color: black;
 
@@ -39,10 +32,16 @@ p {
     float: right;
 }
 
+nav {
+    background-color: salmon;
+    padding: 5px;
+
+}
+
 nav li {
     display: inline;
     border-right:solid 1px white;
-    padding: 0 2em;
+    padding: 0 1.5em;
 }
 nav a{
     text-decoration: none;
