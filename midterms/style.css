@@ -41,7 +41,8 @@ p {
 
 nav li {
     display: inline;
-
+    border-right:solid 1px white;
+    padding: 0 2em;
 }
 nav a{
     text-decoration: none;
