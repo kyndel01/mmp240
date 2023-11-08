@@ -48,7 +48,8 @@ a:visited {
 }
 
 a:hover {
-    color: antiquewhite
+    color: antiquewhite;
+text-decoration: underline;
 }
 
 nav li {
