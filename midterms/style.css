@@ -1,10 +1,5 @@
 #wrapper {
     max-width: 1200px;
-
-
-
-
-
 }
 
 body {
@@ -42,6 +37,9 @@ nav li {
     display: inline;
     border-right:solid 1px white;
     padding: 0 1.5em;
+}
+nav li:last-child{
+    border:none;
 }
 nav a{
     text-decoration: none;
