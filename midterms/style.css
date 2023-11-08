@@ -21,13 +21,13 @@ p {
 }
 
 .col-left {
-    width: 48%;
+    width: 40%;
     float: left;
 
 }
 
 .col-right {
-    width: 52%;
+    width: 50%;
     float: right;
 }
 
