@@ -4,7 +4,9 @@
 }
 
 header{
-    background-image: url("images/peaches.jpg");
+    background-image: url("images/peaches.jpg")
+    ;
+    background-image: url("images/Atlanta\ Logo.png");
     background-repeat: no-repeat;
     background-position: center;
 }
