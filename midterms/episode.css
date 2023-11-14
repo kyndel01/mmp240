@@ -11,7 +11,7 @@ header{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-between, space-around;
 }
 
   .episode-card{
@@ -26,7 +26,7 @@ header{
   }
 
   nav {
-    background-color: salmon;
+    background-color: rgb(244, 177, 170);
     padding: 5px;
 
 }
