@@ -3,15 +3,10 @@
     margin: 0 auto;
 }
 
-header{
-    background-image: url("images/peaches.jpg")
-    ;
-  
-    background-repeat: no-repeat;
-    background-position: left right;
-}
+
 body {
     background-color: black;
+    background-image:url(images/peaches.jpg)
 
 
 }
@@ -61,7 +56,3 @@ a:hover {
     text-decoration: underline;
 }
 
-.content{
-    background: 
-url("images/peaches.jpg")
-     }
