@@ -1,12 +1,10 @@
 #wrapper {
     max-width: 1200px;
     margin: 0 auto;
+    background-color: black;
 }
 
-header{
-background-color: black;
 
-}
 body {
     background-color: black;
     background-image:url(images/peaches.jpg);
