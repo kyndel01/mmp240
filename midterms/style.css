@@ -8,7 +8,7 @@
 body {
     background-color: black;
     background-image:url(images/peaches.jpg);
-    justify-content: left,right;
+    justify-content: left,right/contain;
     
     
 
