@@ -7,7 +7,7 @@
 body {
     background-color: black;
     background-image:url(images/peaches.jpg);
-    background-repeat: row,no-repeat;
+    background-repeat:no-repeat;
     background-position: left right;
     display: right left;
 
