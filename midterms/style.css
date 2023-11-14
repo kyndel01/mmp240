@@ -6,7 +6,9 @@
 
 body {
     background-color: black;
-    background-image:url(images/peaches.jpg)
+    background-image:url(images/peaches.jpg);
+    background-repeat: no-repeat;
+    background-position: left right;
 
 
 }
