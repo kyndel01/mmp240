@@ -1,5 +1,5 @@
 body{background-color:salmon ;
-background-image:"images/peaches.jpg" ;}
+background-image:url(images/peaches.jpg) ;}
 #wrapper{
     width: 1200px;
     margin-left: auto;
@@ -9,3 +9,10 @@ background-image:"images/peaches.jpg" ;}
 
 }
 p{background-color: salmon;}
+div col-left{margin-left:auto ;
+margin-right:auto ;
+float: left;}
+div col-right{margin-left: auto;
+margin-right: auto;
+float: right;}
+
